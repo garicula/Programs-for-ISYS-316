@@ -1,0 +1,26 @@
+All of the info is posted at the top of the "CalculatorApplication.java" file, and I'll paste it here as well
+
+// Garrick Morley
+// ISYS 316 Section 1
+// Instructor: Hira Herrington
+// Programming Assignment #3
+// Due Date: 03/01/2022   -->   Date Finished: 03/01/2022
+// File Name: MorleyGarrickAssignment3
+
+// Run the "CalculatorApplication.java" file to get the program to work
+
+// This program will display a calculator with multiple uses using javax and regular java functions.
+
+// The inputs for this program include: The buttons zero, one, two, three, four, five, six, seven, eight, nine, and "."
+// Also includes the function buttons: The buttons clear, add, subtract, multiply, divide, and calculate, shown as "="
+
+// The outputs for this program include: Really just the resulting number, this program is mostly made of inputs since
+// it's a calculator and all, so it just outputs the result
+
+// The variables used in this program include: All the buttons for zero through nine and a decimal, along with two
+// double variables called "calculate" and "number"
+
+// The objects used in this program include: back (the background), lbl (the label), and result (the result), and all
+// of the JButtons that are created (17 of those in total)
+
+// Package name to move data between files
